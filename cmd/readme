@@ -1,0 +1,5 @@
+Berisi route yang merupakan langkah pertama kali menjalankan aplikasi
+
+contoh
+
+go run cmd/service/main.go
